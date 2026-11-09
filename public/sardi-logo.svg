@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 360" fill="none">
+  <title>Sardi</title>
+  <defs>
+    <linearGradient id="horn" x1="35" y1="45" x2="115" y2="210" gradientUnits="userSpaceOnUse"><stop stop-color="#f1d9a1"/><stop offset="1" stop-color="#ac7b40"/></linearGradient>
+    <linearGradient id="face" x1="160" y1="78" x2="160" y2="268" gradientUnits="userSpaceOnUse"><stop stop-color="#fff2ce"/><stop offset="1" stop-color="#d9b980"/></linearGradient>
+  </defs>
+  <g stroke="#241333" stroke-width="8" stroke-linejoin="round">
+    <path d="M112 82C95 39 52 38 27 65C-2 98 9 157 43 175C72 191 103 176 104 151C105 134 91 119 77 124C61 130 68 146 77 146C61 153 47 137 47 118C47 92 75 88 91 111Z" fill="url(#horn)"/>
+    <path d="M208 82C225 39 268 38 293 65C322 98 311 157 277 175C248 191 217 176 216 151C215 134 229 119 243 124C259 130 252 146 243 146C259 153 273 137 273 118C273 92 245 88 229 111Z" fill="url(#horn)"/>
+    <path d="M27 65L49 85M14 91L43 102M13 120L46 121M22 149L53 137M43 175L65 151M293 65L271 85M306 91L277 102M307 120L274 121M298 149L267 137M277 175L255 151" stroke="#785239" stroke-width="5"/>
+    <path d="M111 123C88 113 64 117 60 126C73 145 85 155 111 151M209 123C232 113 256 117 260 126C247 145 235 155 209 151" fill="#e3bf86"/>
+    <path d="M109 94C118 76 142 67 160 70C178 67 202 76 211 94L214 154L202 199L185 246L160 267L135 246L118 199L106 154Z" fill="url(#face)"/>
+    <path d="M111 100C99 80 112 68 127 70C128 49 150 49 160 61C172 46 195 53 195 70C214 71 221 89 208 102C195 94 183 101 177 109C165 98 150 99 142 109C133 99 122 97 111 100Z" fill="#fff5db"/>
+    <path d="M112 155L134 168L124 187L115 175ZM208 155L186 168L196 187L205 175Z" fill="#473044" stroke-width="5"/>
+    <path d="M140 204Q160 194 180 204L174 233Q160 249 146 233Z" fill="#f5dfb4" stroke-width="5"/>
+    <path d="M148 211Q160 206 172 211L160 224Z" fill="#382336" stroke-width="3"/>
+    <path d="M160 225V235M146 238L160 243L174 238" stroke-width="4" stroke-linecap="round"/>
+    <path d="M133 128L129 147M187 128L191 147" stroke="#b99360" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g fill="#fff0c9" stroke="#241333" stroke-width="3" paint-order="stroke">
+    <path d="M41 296H79V306H54V313H76V338H39V328H63V321H41ZM87 296H125V338H113V323H99V338H87ZM99 306V314H113V306ZM134 296H172V319H163L176 338H161L149 319H146V338H134ZM146 306V311H160V306ZM183 296H208L222 308V326L208 338H183ZM195 307V327H204L210 322V312L204 307ZM233 296H270V307H258V327H270V338H233V327H245V307H233Z"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.next-final-check/
+.next-bugfix-check/
+.next-final-verify/
+.next-description-check/
+out/
+.env*
+.env.local
+!.env.local.example
+*.tsbuildinfo
+*.log
+.DS_Store
+.qa/
+.test-build/
+.npm-cache/
